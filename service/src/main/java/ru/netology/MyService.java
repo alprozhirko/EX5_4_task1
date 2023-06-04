@@ -1,4 +1,8 @@
-package src.main.java;
+package src.main.java.ru.netology;
+
+import src.main.java.ru.netology.Db;
+import src.main.java.ru.netology.DbSetting;
+import src.main.java.ru.netology.MyEntity;
 
 import java.util.UUID;
 
